@@ -1,0 +1,3 @@
+Open GeomaticProject1/includes/init.php
+Change dbname=GeomaticDB by dbname=your_DB
+Change 'myPass' by your password of postgres connexion if you are using postgresql
