@@ -5,5 +5,5 @@ Tools: PHP, JavaScript, HTML, CSS, OpenLayers, QGIS, PostgreSQL, PostGIS, Mapsto
 
 Confirguration: 
  -> Open GeomaticProject1/includes/init.php
- -> Change dbname=GeomaticDB by dbname=your_DB
- -> Change 'myPass' by your password of postgres connexion if you are using postgresql
+ -> Change dbname=GeomaticDB to dbname=your_DB
+ -> Change 'myPass' to your password of postgres connexion if you are using postgresql
